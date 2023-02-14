@@ -20,5 +20,10 @@ public class FuncionarioDAO {
 	public ArrayList<Funcionario> listar(){
 		return listaFuncionarios;
 	}
+
+	public static FuncionarioDAO getInstance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
