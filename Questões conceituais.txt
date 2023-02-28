@@ -1,0 +1,8 @@
+1. É um pacote de códigos e funções já feitas antes por algum programador para te auxiliar e agilizar seu tempo e trabalho.
+2. É uma biblioteca que auxilia na criação de interfaces gráficas.
+3.	a) JButton
+	b) JTextField
+	c) JCheckBox
+	d) JProgressBar
+	e) JToggleButton
+	f) JComboBox
