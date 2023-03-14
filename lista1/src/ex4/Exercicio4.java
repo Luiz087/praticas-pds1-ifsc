@@ -73,10 +73,10 @@ public class Exercicio4 extends JFrame {
 		JButton btnSoma = new JButton("Soma");
 		btnSoma.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				Long inp1 = Long.valueOf(textCampo1.getText());
-				Long inp2 = Long.valueOf(textCampo2.getText());
+				Double inp1 = Double.valueOf(textCampo1.getText());
+				Double inp2 = Double.valueOf(textCampo2.getText());
 				
-				Long soma = inp1 + inp2;
+				Double soma = inp1 + inp2;
 				
 				JOptionPane.showMessageDialog(btnSoma, "A soma de tudo foi: " + soma);
 			}
