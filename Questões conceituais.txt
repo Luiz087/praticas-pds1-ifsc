@@ -11,5 +11,5 @@
 6. 	Swing: Evolução do AWT; mais efeitos que o AWT; Os componentes do swing começão sempre com a letra J, ex: JOptionPane...
 	AWT: Aparência mais padrão; Primeiros componentes gráficos que surgiram no java; Não possuem muitos efeitos gráficos.
 	JavaFX: efeitos gráficos mais estilizados e bonitos visualmente; escolhido por sua ampla funcionalidade de efeitos e eslitização de telas; Considerado um novo Swing (mais atualizado e melhorado).
-7. 
+7. Conforme mudamos de S.O. ou de ambiente, o "Look and Feet" se adapta para aqueles que são padrão na máquina, onde rodamos. FlatLaf Light, FlatLaf Dark, FlatLaf IntelliJ.
 	
